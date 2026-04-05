@@ -1,0 +1,13 @@
+paths:
+  raw_data: data/raw/
+  processed_data: data/processed/
+
+tables:
+  application_train: application_train.csv
+  application_test: application_test.csv
+  bureau: bureau.csv
+  bureau_balance: bureau_balance.csv
+  previous_application: previous_application.csv
+  pos_cash_balance: POS_CASH_balance.csv
+  installments_payments: installments_payments.csv
+  credit_card_balance: credit_card_balance.csv
